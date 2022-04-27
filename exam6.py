@@ -19,7 +19,7 @@ print(c1.square())
 a1 = AbstractFigure()
 print(a1.square())
 
-print("Hello world")
+
 
 
 
